@@ -1,6 +1,6 @@
 The JSON file attached has contains the tweet on Ruby on Rails. 
 
-The entire task is divided three sub task, you are expected to compete atleast one of the provided task - completion of all them would fetch you more points with the team... 
+The entire task is divided into three sub task, you are expected to compete at least one of the provided task - completion of all them would fetch you more points with the team... 
 
 1) Create a ruby script to control the number of time a word is being repeated in the text of each tweet
 
